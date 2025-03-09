@@ -45,5 +45,5 @@ flutter build apk
 ## Contact
 For any queries or issues, feel free to reach out:
 - Email: work.yagnikpanchal@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/yagnik2411/)
+- GitHub: [Yagnik Panchal](https://github.com/yagnik2411/)
 
