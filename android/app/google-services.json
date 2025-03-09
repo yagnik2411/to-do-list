@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "984833099168",
+    "project_id": "jobtask-d1bac",
+    "storage_bucket": "jobtask-d1bac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984833099168:android:c1cab0ad5ca16281bcd0c5",
+        "android_client_info": {
+          "package_name": "com.example.job_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984833099168-0kbp8nj7lle8c336l1kc6r4a2b7pvvq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job_task",
+            "certificate_hash": "8bd37c29562607b8e7f55c2693b1ec3d2a6b4c90"
+          }
+        },
+        {
+          "client_id": "984833099168-9mumn5bs9d7046pici6ovbkhl13nhust.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job_task",
+            "certificate_hash": "4f944ce3d9815bdc3d2480dc9b67702f0c3291b0"
+          }
+        },
+        {
+          "client_id": "984833099168-cmtr35r9idqom1kv3k51gqren1t7v62p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4njzrXI-nha0Szx94jhXG70lJadpC-FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984833099168-cmtr35r9idqom1kv3k51gqren1t7v62p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984833099168-slddkg7ktf64fb3p29m59jrek0mml9ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+# In pubspec.yaml
+flutter_native_splash:
+  # Background color for all platforms
+  color: "#FFFFFF"
+  # Your splash image
+  image: assets/splash.png
+  # Color when app is loading - should also be white
+ 
+  
+  # Android 12 specific settings
+  android_12:
+    image: assets/splash.png
+    color: "#FFFFFF"
+    icon_background_color: "#FFFFFF"
+  
+  # iOS settings
+  ios: true
+  web: false
+  
+  # Ensure full screen
+  fullscreen: true
